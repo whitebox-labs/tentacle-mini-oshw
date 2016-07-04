@@ -1,0 +1,15 @@
+Id,Description,Package,Qty,Designator,Designation,Manufacturer,Manufacturer Part No.
+1,1x6-pin female header .1inch,.1 inch header,1,SHIELD1,ARDUINO_SHIELD,4Ucon,-
+2,1x8-pin female header .1inch,.1 inch header,2,SHIELD1,ARDUINO_SHIELD,4Ucon,-
+3,1x10-pin female header .1inch,.1 inch header,1,SHIELD1,ARDUINO_SHIELD,4Ucon,-
+4,LDO voltage regulator,SOT89,2,"REG1,REG2",LD2981ABU50TR,STMicroelectronics,LD2981ABU50TR
+5,Digital signal isolator,so-8,2,"SIG_ISO1, SIG_ISO2",SI8600,Silicon Labs,Si8600AC-B-IS
+6,"SMD resistor 4.7K, 1/8W",SM0805,6,"R5,R6,R4,R3,R2,R1",4.7K,Vishay / Dale,CRCW08054K70FKEA
+7,Multilayer Ceramic Capacitor 0.1uF,SM0805,4,"C9,C4,C10,C5",0.1 µF,TDK,C2012X8R1H104K125AA
+8,Multilayer Ceramic Capacitor 1uF,SM0805,4,"C2,C6,C1,C7",1µF,TDK,CGA4J3X7R1H105K125AB
+9,Multilayer Ceramic Capacitor 2.2uF,SM0805,2,"C8,C3",2.2µF,TDX,CGA4J1X7R1V225K125AC
+10,Tantalum Capacitor 470uF,c_tant_x,1,C11,470µF,Kemet,T495X477K010ATE100
+11,Tactile push button,B3S-1000P,1,SW1,SW_PUSH,Grayhill,95CW06C3JRT
+12,Isolated DC/DC converter 5V,R1SE_0505,2,"DCDC1,DCDC2",R1SE_0505,Recom,R1SE-0505-R
+13,BNC Connector,BNC-1337542,2,"P1,P2",BNC,TE Connectivity / AMP,1-1337542-0
+14,1x3-pin female header .1inch,1x3  .1 inch spacing female pin,4,"STP1,STP2",ATLAS_STAMP,FCI,66951-003LF
