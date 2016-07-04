@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0  Date: 04/12/2015 06:18:30
+#
+$CMP CP1
+D Condensateur polarise
+$ENDCMP
+#
+$CMP R
+D Resistance
+K R DEV
+$ENDCMP
+#
+#End Doc Library

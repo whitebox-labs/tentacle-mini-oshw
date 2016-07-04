@@ -1,0 +1,18 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"SW1";"B3S-1000P";1;"SW_PUSH";;;
+2;"fiducial,fiducial";"fiducial";2;"VAL**";;;
+3;"P2,P1";"BNC-1337543a";2;"BNC";;;
+4;"REG2,REG1";"sot89a";2;"LD2981ABU50TR";;;
+5;"SIG_ISO1,SIG_ISO2";"so-8a";2;"SI8600";;;
+6;"C2,C6,C1,C7";"SM0805a";4;"1µF";;;
+7;"R5,R6,R4,R3,R2,R1";"SM0805a";6;"4.7K";;;
+8;"C8,C3";"SM0805a";2;"2.2µF";;;
+9;"C9,C4,C10,C5";"SM0805a";4;"0.1 µF";;;
+10;"DCDC2,DCDC1";"R1SE_0505";2;"R1SE_0505";;;
+11;"C11";"c_tant_X";1;"470µF";;;
+12;"SHIELD1";"ARDUINO_SHIELD_040pinsb_no_outline";1;"ARDUINO_SHIELD";;;
+13;"STP1,STP2";"Atlas_Stamp_14x21";2;"ATLAS_STAMP";;;
+14;"VAL,VAL";"blackbox";2;"REF";;;
+15;"VAL";"mini_F.SilkS_68.5mm";1;"REF";;;
+16;"VAL";"mini_B.SilkS_68.5mm_flipped";1;"REF";;;
+17;"VAL";"icon";1;"REF";;;

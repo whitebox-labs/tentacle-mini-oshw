@@ -1,0 +1,66 @@
+eeschema (2013-07-07 BZR 4022)-stable  >> Creation date: 12/10/2015 09:08:35
+#Cmp ( order = Reference )
+| C1         1µF        
+| C2         1µF        
+| C3         2.2µF      
+| C4         0.1 µF     
+| C5         0.1 µF     
+| C6         1µF        
+| C7         1µF        
+| C8         2.2µF      
+| C9         0.1 µF     
+| C10        0.1 µF     
+| C11        470µF      
+| DCDC1      R1SE_0505   
+| DCDC2      R1SE_0505   
+| P1         BNC         
+| P2         BNC         
+| R1         4.7K        
+| R2         4.7K        
+| R3         4.7K        
+| R4         4.7K        
+| R5         4.7K        
+| R6         4.7K        
+| REG1       LD2981ABU50TR
+| REG2       LD2981ABU50TR
+| SHIELD1    ARDUINO_SHIELD
+| SIG_ISO1   SI8600      
+| SIG_ISO2   SI8600      
+| STP1       ATLAS_STAMP 
+| STP2       ATLAS_STAMP 
+| SW1        SW_PUSH     
+#End Cmp
+
+#Cmp ( order = Value )
+| 0.1 µF      C4        
+| 0.1 µF      C9        
+| SI8600       SIG_ISO1  
+| SI8600       SIG_ISO2  
+| 0.1 µF      C5        
+| 0.1 µF      C10       
+| 2.2µF       C3        
+| 2.2µF       C8        
+| 1µF         C1        
+| 1µF         C2        
+| 1µF         C6        
+| 1µF         C7        
+| 470µF       C11       
+| R1SE_0505    DCDC1     
+| R1SE_0505    DCDC2     
+| BNC          P1        
+| BNC          P2        
+| 4.7K         R1        
+| 4.7K         R2        
+| 4.7K         R3        
+| 4.7K         R4        
+| 4.7K         R5        
+| 4.7K         R6        
+| LD2981ABU50TR REG1      
+| LD2981ABU50TR REG2      
+| ARDUINO_SHIELD SHIELD1   
+| ATLAS_STAMP  STP1      
+| ATLAS_STAMP  STP2      
+| SW_PUSH      SW1       
+#End Cmp
+
+#End List
