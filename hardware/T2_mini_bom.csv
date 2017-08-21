@@ -1,7 +1,7 @@
 Id,Description,Package,Qty,Designator,Designation
-1,1x6-pin female header .1inch,.1 inch header,1,SHIELD1
-2,1x8-pin female header .1inch,.1 inch header,2,SHIELD1
-3,1x10-pin female header .1inch,.1 inch header,1,SHIELD1
+1,1x6-pin female header .1inch,.1 inch header,1,SHIELD1,ARDUINO_SHIELD
+2,1x8-pin female header .1inch,.1 inch header,2,SHIELD1,ARDUINO_SHIELD
+3,1x10-pin female header .1inch,.1 inch header,1,SHIELD1,ARDUINO_SHIELD
 4,LDO voltage regulator,SOT89,2,"REG1,REG2",LD2981ABU50TR
 5,Digital signal isolator,so-8,2,"SIG_ISO1, SIG_ISO2",SI8600
 6,"SMD resistor 4.7K, 1/8W",SM0805,6,"R5,R6,R4,R3,R2,R1",4.7K
